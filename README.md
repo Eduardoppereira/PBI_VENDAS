@@ -32,7 +32,7 @@ Pode acessar o link abaixo para acessar o dashboard:
 
 #### Capturas de Tela
 <p align="LEFT">
-  <img src="https://github.com/Eduardoppereira/PBI_FII/blob/main/FII1.png" width=80%>
+  <img src="https://github.com/Eduardoppereira/PBI_VENDAS/blob/main/Slide1.PNG" width=80%>
 </p>
 
 
