@@ -35,7 +35,6 @@ Pode acessar o link abaixo para acessar o dashboard:
   <img src="https://github.com/Eduardoppereira/PBI_VENDAS/blob/main/Slide1.PNG" width=80%>
 </p>
 
-
 ## Feedback
 Estou aberto a feedback construtivo! Sinta-se à vontade para fornecer suas impressões, sugestões ou observações. Juntos, podemos aprimorar ainda mais!
 
